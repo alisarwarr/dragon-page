@@ -1,0 +1,12 @@
+export { default as curvered1 } from './curvered1.png';
+export { default as curvered2 } from './curvered2.png';
+export { default as curveblue } from './curveblue.png';
+export { default as brand1 } from './brand1.png';
+export { default as brand2 } from './brand2.png';
+export { default as brand3 } from './brand3.png';
+export { default as brand4 } from './brand4.png';
+export { default as star } from './star.png';
+export { default as pic1 } from './pic1.png';
+export { default as pic2 } from './pic2.png';
+export { default as pic3 } from './pic3.png';
+export { default as pic4 } from './pic4.png';
